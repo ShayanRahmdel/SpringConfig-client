@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SpringWebClient
+
+  cloud:
+    config:
+      uri: http://localhost:8888
+
+server:
+  port: 5059
